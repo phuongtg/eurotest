@@ -20,7 +20,6 @@ import org.json.simple.parser.ParseException;
  * @author Phuong Tran-Gia
  * @date November 19th, 2014
  * A simple online test from GoEuro
- * The complexity of this program is: 
  */
 
 
